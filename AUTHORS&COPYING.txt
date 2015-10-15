@@ -1,0 +1,73 @@
+McDonnell Douglas MD-82 for Flightgear
+
+Based on MD-81 from Buckaroo. Its licence says:
+
+	<< This model is currently available as free for personal, non-commercial use. If used in any derivative material, please credit me where applicable.
+
+	Creative Commons license "CC-BY-NC-SA":
+
+	http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+
+	Gary R. Neely
+	January 2010
+	grneely@gmail.com
+	"Buckaroo" on the Flightgear forums >>
+
+The mentioned Creative Commons licence says:
+
+	<< You are free to:
+
+	- Share — copy and redistribute the material in any medium or format
+    	- Adapt — remix, transform, and build upon the material
+
+    	The licensor cannot revoke these freedoms as long as you follow the license terms
+
+	Under the following terms:
+
+	- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. 
+	- You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+	- NonCommercial — You may not use the material for commercial purposes.
+
+	- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. >>
+
+
+Andino has created a MD-82 addapting, remixing, transforming and building upon Buckaroo's MD-81. Therefore, it is under the same licence: Creative Commons license "CC-BY-NC-SA": 
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+Most of the cabin announcements are under the same licence. Only the music was taken from the A340-600 (William Gathercole). The rest of the crew voices, in Spanish, were created by Juan Puerto (OMI), and they are under the same creative commons licence (http://creativecommons.org/licenses/by-nc-sa/3.0). They were downloaded from the site of FSPassengers (www.fspassengers.com). This email addresses were given to contact the author: equipajedemano@gmail.com and also juanpf2@gmail.com
+
+Alghough in Spanish, the sounds have standard names given in FSX and FSPassengers. So, you can go to the FSpassengers website and download a crew voice pack in your language, and then overwrite the sounds that you can find in /MD-82/Sounds
+
+What Andino has done is:
+
+- Adaptation to FG 3.0. The price is simplifying the complex systems of the MD-81, specially the fuel pressure system. Some work in the Nasal has been done.
+- Changes in the yasim to transform from the MD-81 to a MD-82.
+- Developement of the autopilot panel. Some knobs from the Lake of Constance Hangar and from the 777 where used.
+- Flight recorder for reversers, spoilers, tyre smoke, etc.
+- Landing Lights, more cabin light.
+- Pushback, Announcements.
+- Addition of the Ground Proximity Warning System (GPWS, the FG's standard mk-viii)
+- Fuel Truck, Baggage Truck, Power Box, De-Ice Truck (from the Airbus 330).
+- Checklists (partially inspired by Werner Schott's MD-80 checklists for FS2004).
+- Other changes, like adding liveries, correcting some instruments (for example, course selector being able to change from 360 to 1), adding click option to the spoiler, adding a splash screen, crash sound and fire, etc.
+
+
+This model includes several liveries, taken from the Flightgear Livery Database. They are Bulgarian Air Charter (by Tobias Henkel), Continental Airlines (by Emmanuel Savage), Delta Airlines (by Emmanuel Savage), Everts Air Cargo (by Tobies Henkel), Frontier Airlines (by Emmanuel Savage), Japan Airlines (Martien var der P.), JeTran Air (by Tobias Henkel), the old Atlas Virtual Airlines (author unknown), the new GVA livery (by Fajar Sidik) and Swiss Air (Martien van der P.). This liveries are supposed to by distributed under GNU licence. 
+
+The model includes also some liveries taken from http://fgfsliveries.blogspot.com.es. They are Aerolineas Argentinas, Aeropostal, Austral, Austral/Aerolineas Argentinas, and Spanair. Aparently, they are also under the GNU licence.
+
+New textures (Insel Island, Aeromexico, PanAm, BRT) were created by Andino. They are under the GNU licence.
+
+The configuration for some views has been taken from Raptor, who offered them in the FG Forum.
+
+All this has been done for fun.
+
+
+
+
+
+
+
